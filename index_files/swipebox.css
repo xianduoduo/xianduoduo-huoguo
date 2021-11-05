@@ -286,7 +286,7 @@ html.swipebox-html.swipebox-touch {
 }
 
 #swipebox-top-bar {
-  color: white !important;
+  color: #f00 !important;
   font-size: 15px;
   line-height: 43px;
   font-family: Helvetica, Arial, sans-serif;
